@@ -11,12 +11,8 @@ namespace Study.Model
     /// 作者：huangwei
     /// 时间：2018-9-10
     /// </summary>
-    public class Course
+    public class Course : ModelBase
     {
-        /// <summary>
-        /// 全球唯一标识
-        /// </summary>
-        public string Guid { get; set; }
         /// <summary>
         /// 课程名称
         /// </summary>
