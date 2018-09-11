@@ -4,3 +4,4 @@ F:\Code\git\StudyDemo\Study.IDAL\obj\Debug\Study.IDAL.csprojAssemblyReference.ca
 F:\Code\git\StudyDemo\Study.IDAL\obj\Debug\Study.IDAL.csproj.CoreCompileInputs.cache
 F:\Code\git\StudyDemo\Study.IDAL\obj\Debug\Study.IDAL.dll
 F:\Code\git\StudyDemo\Study.IDAL\obj\Debug\Study.IDAL.pdb
+F:\Code\git\StudyDemo\Study.IDAL\obj\Debug\Study.IDAL.csproj.CopyComplete

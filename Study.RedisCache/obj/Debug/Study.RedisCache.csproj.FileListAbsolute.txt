@@ -1,0 +1,8 @@
+F:\Code\git\StudyDemo\Study.UI\bin\Study.RedisCache.dll
+F:\Code\git\StudyDemo\Study.UI\bin\Study.RedisCache.pdb
+F:\Code\git\StudyDemo\Study.RedisCache\obj\Debug\Study.RedisCache.csproj.CoreCompileInputs.cache
+F:\Code\git\StudyDemo\Study.RedisCache\obj\Debug\Study.RedisCache.dll
+F:\Code\git\StudyDemo\Study.RedisCache\obj\Debug\Study.RedisCache.pdb
+F:\Code\git\StudyDemo\Study.UI\bin\Study.RedisCache.dll.config
+F:\Code\git\StudyDemo\Study.RedisCache\obj\Debug\Study.RedisCache.csprojAssemblyReference.cache
+F:\Code\git\StudyDemo\Study.RedisCache\obj\Debug\Study.RedisCache.csproj.CopyComplete

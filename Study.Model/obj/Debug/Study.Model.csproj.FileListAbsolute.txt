@@ -3,4 +3,3 @@ F:\Code\git\StudyDemo\Study.UI\bin\Study.Model.pdb
 F:\Code\git\StudyDemo\Study.Model\obj\Debug\Study.Model.csproj.CoreCompileInputs.cache
 F:\Code\git\StudyDemo\Study.Model\obj\Debug\Study.Model.dll
 F:\Code\git\StudyDemo\Study.Model\obj\Debug\Study.Model.pdb
-F:\Code\git\StudyDemo\Study.Model\obj\Debug\Study.Model.csprojAssemblyReference.cache

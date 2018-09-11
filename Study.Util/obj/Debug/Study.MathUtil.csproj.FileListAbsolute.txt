@@ -1,0 +1,5 @@
+F:\Code\git\StudyDemo\Study.UI\bin\Study.Util.dll
+F:\Code\git\StudyDemo\Study.UI\bin\Study.Util.pdb
+F:\Code\git\StudyDemo\Study.Util\obj\Debug\Study.MathUtil.csproj.CoreCompileInputs.cache
+F:\Code\git\StudyDemo\Study.Util\obj\Debug\Study.Util.dll
+F:\Code\git\StudyDemo\Study.Util\obj\Debug\Study.Util.pdb

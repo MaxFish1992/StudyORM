@@ -1,0 +1,2 @@
+F:\Code\git\StudyDemo\Study.DBUtil\obj\Debug\Study.DBUtil.csproj.CoreCompileInputs.cache
+F:\Code\git\StudyDemo\Study.DBUtil\obj\Debug\Study.DBUtil.csprojAssemblyReference.cache

@@ -3,3 +3,5 @@ F:\Code\git\StudyDemo\Study.UI\bin\Study.DAL.pdb
 F:\Code\git\StudyDemo\Study.DAL\obj\Debug\Study.DAL.csproj.CoreCompileInputs.cache
 F:\Code\git\StudyDemo\Study.DAL\obj\Debug\Study.DAL.dll
 F:\Code\git\StudyDemo\Study.DAL\obj\Debug\Study.DAL.pdb
+F:\Code\git\StudyDemo\Study.DAL\obj\Debug\Study.DAL.csprojAssemblyReference.cache
+F:\Code\git\StudyDemo\Study.DAL\obj\Debug\Study.DAL.csproj.CopyComplete
