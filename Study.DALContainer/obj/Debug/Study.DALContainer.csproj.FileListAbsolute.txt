@@ -1,0 +1,7 @@
+F:\Code\git\StudyDemo\Study.UI\bin\Study.DALContainer.dll
+F:\Code\git\StudyDemo\Study.UI\bin\Study.DALContainer.pdb
+F:\Code\git\StudyDemo\Study.DALContainer\obj\Debug\Study.DALContainer.csprojAssemblyReference.cache
+F:\Code\git\StudyDemo\Study.DALContainer\obj\Debug\Study.DALContainer.csproj.CoreCompileInputs.cache
+F:\Code\git\StudyDemo\Study.DALContainer\obj\Debug\Study.DALContainer.dll
+F:\Code\git\StudyDemo\Study.DALContainer\obj\Debug\Study.DALContainer.pdb
+F:\Code\git\StudyDemo\Study.DALContainer\obj\Debug\Study.DALContainer.csproj.CopyComplete

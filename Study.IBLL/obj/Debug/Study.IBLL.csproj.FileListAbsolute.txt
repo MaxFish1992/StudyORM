@@ -1,0 +1,5 @@
+F:\Code\git\StudyDemo\Study.UI\bin\Study.IBLL.dll
+F:\Code\git\StudyDemo\Study.UI\bin\Study.IBLL.pdb
+F:\Code\git\StudyDemo\Study.IBLL\obj\Debug\Study.IBLL.csproj.CoreCompileInputs.cache
+F:\Code\git\StudyDemo\Study.IBLL\obj\Debug\Study.IBLL.dll
+F:\Code\git\StudyDemo\Study.IBLL\obj\Debug\Study.IBLL.pdb
