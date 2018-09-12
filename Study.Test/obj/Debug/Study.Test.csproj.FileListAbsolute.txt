@@ -1,0 +1,13 @@
+F:\Code\git\StudyDemo\Study.Test\obj\Debug\Study.Test.csproj.CoreCompileInputs.cache
+F:\Code\git\StudyDemo\Study.Test\bin\Debug\Study.Test.exe.config
+F:\Code\git\StudyDemo\Study.Test\bin\Debug\Study.Test.exe
+F:\Code\git\StudyDemo\Study.Test\bin\Debug\Study.Test.pdb
+F:\Code\git\StudyDemo\Study.Test\obj\Debug\Study.Test.csproj.CopyComplete
+F:\Code\git\StudyDemo\Study.Test\obj\Debug\Study.Test.exe
+F:\Code\git\StudyDemo\Study.Test\obj\Debug\Study.Test.pdb
+F:\Code\git\StudyDemo\Study.Test\bin\Debug\log4net.dll
+F:\Code\git\StudyDemo\Study.Test\bin\Debug\log4net.xml
+F:\Code\git\StudyDemo\Study.Test\obj\Debug\Study.Test.csprojAssemblyReference.cache
+F:\Code\git\StudyDemo\Study.Test\bin\Debug\Study.LogUtil.dll
+F:\Code\git\StudyDemo\Study.Test\bin\Debug\Study.LogUtil.pdb
+F:\Code\git\StudyDemo\Study.Test\bin\Debug\log4net.config

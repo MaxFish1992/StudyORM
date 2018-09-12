@@ -1,0 +1,13 @@
+F:\Code\git\StudyDemo\Study.WinTest\bin\Debug\Study.WinTest.exe.config
+F:\Code\git\StudyDemo\Study.WinTest\bin\Debug\Study.WinTest.exe
+F:\Code\git\StudyDemo\Study.WinTest\bin\Debug\Study.WinTest.pdb
+F:\Code\git\StudyDemo\Study.WinTest\bin\Debug\log4net.dll
+F:\Code\git\StudyDemo\Study.WinTest\bin\Debug\log4net.xml
+F:\Code\git\StudyDemo\Study.WinTest\obj\Debug\Study.WinTest.csprojAssemblyReference.cache
+F:\Code\git\StudyDemo\Study.WinTest\obj\Debug\Study.WinTest.Properties.Resources.resources
+F:\Code\git\StudyDemo\Study.WinTest\obj\Debug\Study.WinTest.csproj.GenerateResource.cache
+F:\Code\git\StudyDemo\Study.WinTest\obj\Debug\Study.WinTest.csproj.CoreCompileInputs.cache
+F:\Code\git\StudyDemo\Study.WinTest\obj\Debug\Study.WinTest.csproj.CopyComplete
+F:\Code\git\StudyDemo\Study.WinTest\obj\Debug\Study.WinTest.exe
+F:\Code\git\StudyDemo\Study.WinTest\obj\Debug\Study.WinTest.pdb
+F:\Code\git\StudyDemo\Study.WinTest\obj\Debug\Study.WinTest.Form1.resources

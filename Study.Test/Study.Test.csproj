@@ -32,6 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -47,11 +50,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Study.DBUtil\Study.DBUtil.csproj">
-      <Project>{a31b7e3d-a3b9-4bde-ade2-b140fe2a7a3d}</Project>
-      <Name>Study.DBUtil</Name>
+    <ProjectReference Include="..\Study.LogUtil\Study.LogUtil.csproj">
+      <Project>{aa19c934-d51a-434f-b46d-9ea5cb372401}</Project>
+      <Name>Study.LogUtil</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

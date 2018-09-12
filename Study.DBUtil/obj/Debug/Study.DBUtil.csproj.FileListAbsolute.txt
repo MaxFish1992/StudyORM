@@ -1,2 +1,6 @@
 F:\Code\git\StudyDemo\Study.DBUtil\obj\Debug\Study.DBUtil.csproj.CoreCompileInputs.cache
-F:\Code\git\StudyDemo\Study.DBUtil\obj\Debug\Study.DBUtil.csprojAssemblyReference.cache
+F:\Code\git\StudyDemo\Study.UI\bin\Study.DBUtil.dll
+F:\Code\git\StudyDemo\Study.UI\bin\Study.DBUtil.pdb
+F:\Code\git\StudyDemo\Study.DBUtil\obj\Debug\Study.DBUtil.csproj.CopyComplete
+F:\Code\git\StudyDemo\Study.DBUtil\obj\Debug\Study.DBUtil.dll
+F:\Code\git\StudyDemo\Study.DBUtil\obj\Debug\Study.DBUtil.pdb

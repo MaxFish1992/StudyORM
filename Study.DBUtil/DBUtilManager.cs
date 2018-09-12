@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Dapper;
+using System;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Data;
@@ -15,29 +16,53 @@ namespace Study.DBUtil
 
         public int Add(string sql, T t)
         {
-            throw new NotImplementedException();
+            try
+            {
+                return Connection.Execute(sql, t);
+            }
+            catch (Exception ex)
+            {
+                return 0;
+            }
+            
         }
 
         public int Delete(string sql, T t)
         {
-            throw new NotImplementedException();
+            try
+            {
+                return Connection.Execute(sql, t);
+            }
+            catch (Exception ex)
+            {
+                return 0;
+            }
         }
 
         public IList<T> GetModels(string sql, T t)
         {
-            throw new NotImplementedException();
+            try
+            {
+                IList<T> results = new List<T>();
+                results = Connection.Query<T>(sql, t) as IList<T>;
+                return results;
+            }
+            catch (Exception ex)
+            {
+                return null;
+            }
         }
 
         public int Update(string sql, T t)
         {
-            throw new NotImplementedException();
-        }
-    }
-    public partial class DBUtilManager<T>
-    {
-        public void SayHellow()
-        {
-            Console.WriteLine("SayHellow!");
+            try
+            {
+                return Connection.Execute(sql, t);
+            }
+            catch (Exception ex)
+            {
+                return 0;
+            }
         }
     }
 }
