@@ -3,3 +3,4 @@ F:\Code\git\StudyDemo\Study.UI\bin\Study.BLL.pdb
 F:\Code\git\StudyDemo\Study.BLL\obj\Debug\Study.BLL.csproj.CoreCompileInputs.cache
 F:\Code\git\StudyDemo\Study.BLL\obj\Debug\Study.BLL.dll
 F:\Code\git\StudyDemo\Study.BLL\obj\Debug\Study.BLL.pdb
+F:\Code\git\StudyDemo\Study.BLL\obj\Debug\Study.BLL.csprojAssemblyReference.cache

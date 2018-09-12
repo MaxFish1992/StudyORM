@@ -5,3 +5,4 @@ F:\Code\git\StudyDemo\Study.DALContainer\obj\Debug\Study.DALContainer.csproj.Cor
 F:\Code\git\StudyDemo\Study.DALContainer\obj\Debug\Study.DALContainer.dll
 F:\Code\git\StudyDemo\Study.DALContainer\obj\Debug\Study.DALContainer.pdb
 F:\Code\git\StudyDemo\Study.DALContainer\obj\Debug\Study.DALContainer.csproj.CopyComplete
+F:\Code\git\StudyDemo\Study.UI\bin\log4net.config

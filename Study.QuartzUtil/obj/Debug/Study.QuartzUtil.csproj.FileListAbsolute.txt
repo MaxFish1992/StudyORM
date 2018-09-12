@@ -1,6 +1,5 @@
 F:\Code\git\StudyDemo\Study.QuartzUtil\bin\Debug\Study.QuartzUtil.dll
 F:\Code\git\StudyDemo\Study.QuartzUtil\bin\Debug\Study.QuartzUtil.pdb
-F:\Code\git\StudyDemo\Study.QuartzUtil\obj\Debug\Study.QuartzUtil.csprojAssemblyReference.cache
 F:\Code\git\StudyDemo\Study.QuartzUtil\obj\Debug\Study.QuartzUtil.csproj.CoreCompileInputs.cache
 F:\Code\git\StudyDemo\Study.QuartzUtil\obj\Debug\Study.QuartzUtil.dll
 F:\Code\git\StudyDemo\Study.QuartzUtil\obj\Debug\Study.QuartzUtil.pdb

@@ -41,8 +41,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="BaseService.cs" />
+    <Compile Include="CourseService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Study.DALContainer\Study.DALContainer.csproj">
+      <Project>{50418ea3-a0eb-416f-84c7-1235eca47b00}</Project>
+      <Name>Study.DALContainer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Study.IBLL\Study.IBLL.csproj">
+      <Project>{aafe095b-9f5e-4ebf-9918-b5be6858da72}</Project>
+      <Name>Study.IBLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Study.IDAL\Study.IDAL.csproj">
+      <Project>{4b152cce-4a1e-4703-a435-dacd485a25b8}</Project>
+      <Name>Study.IDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Study.Model\Study.Model.csproj">
+      <Project>{e5d40495-805c-4b29-bf90-7a0a6ca3bee9}</Project>
+      <Name>Study.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

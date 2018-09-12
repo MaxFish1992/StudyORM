@@ -1,4 +1,5 @@
-﻿using Study.IDAL;
+﻿using Study.DBUtil;
+using Study.IDAL;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,27 +12,27 @@ namespace Study.DAL
     {
         public int Add(string sql, T t)
         {
-            throw new NotImplementedException();
+            return DBHelper<T>.Add(sql, t);
         }
 
         public int Delete(string sql, T t)
         {
-            throw new NotImplementedException();
+            return DBHelper<T>.Delete(sql, t);
         }
 
         public IList<T> GetModels(string sql, T t)
         {
-            throw new NotImplementedException();
+            return DBHelper<T>.GetModels(sql, t);
         }
 
         public bool SaveChanges()
         {
-            throw new NotImplementedException();
+            return false;
         }
 
         public int Update(string sql, T t)
         {
-            throw new NotImplementedException();
+            return DBHelper<T>.Update(sql, t);
         }
     }
 }

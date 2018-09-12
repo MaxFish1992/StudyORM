@@ -46,14 +46,27 @@
   <ItemGroup>
     <Compile Include="BaseDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="CourseDAL.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Study.DBUtil\Study.DBUtil.csproj">
+      <Project>{a31b7e3d-a3b9-4bde-ade2-b140fe2a7a3d}</Project>
+      <Name>Study.DBUtil</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Study.IDAL\Study.IDAL.csproj">
       <Project>{4b152cce-4a1e-4703-a435-dacd485a25b8}</Project>
       <Name>Study.IDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Study.LogUtil\Study.LogUtil.csproj">
+      <Project>{aa19c934-d51a-434f-b46d-9ea5cb372401}</Project>
+      <Name>Study.LogUtil</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Study.Model\Study.Model.csproj">
+      <Project>{e5d40495-805c-4b29-bf90-7a0a6ca3bee9}</Project>
+      <Name>Study.Model</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

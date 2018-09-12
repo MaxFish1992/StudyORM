@@ -1,6 +1,6 @@
 ﻿using Autofac;
-using Study.DAL;
-using Study.IDAL;
+using Study.BLL;
+using Study.IBLL;
 using Study.LogUtil;
 using System;
 using System.Collections.Generic;
@@ -8,14 +8,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Study.DALContainer
+namespace Study.BLLContainer
 {
     public class Container
     {
         /// <summary>
-        /// IOC容器
+        /// IOC 容器
         /// </summary>
         public static IContainer container = null;
+
         /// <summary>
         /// 获取 IDal 的实例化对象
         /// </summary>
@@ -44,7 +45,7 @@ namespace Study.DALContainer
         {
             var builder = new ContainerBuilder();
             //格式：builder.RegisterType<xxxx>().As<Ixxxx>().InstancePerLifetimeScope();
-            builder.RegisterType<CourseDAL>().As<ICourseDAL>().InstancePerLifetimeScope();
+            builder.RegisterType<CourseService>().As<ICourseService>().InstancePerLifetimeScope();
             container = builder.Build();
         }
     }

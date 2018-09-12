@@ -5,3 +5,4 @@ F:\Code\git\StudyDemo\Study.DAL\obj\Debug\Study.DAL.dll
 F:\Code\git\StudyDemo\Study.DAL\obj\Debug\Study.DAL.pdb
 F:\Code\git\StudyDemo\Study.DAL\obj\Debug\Study.DAL.csprojAssemblyReference.cache
 F:\Code\git\StudyDemo\Study.DAL\obj\Debug\Study.DAL.csproj.CopyComplete
+F:\Code\git\StudyDemo\Study.UI\bin\log4net.config
