@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Study.RedisCache
+namespace Study.QuartzUtil
 {
-    public class Class1
+    /// <summary>
+    /// 任务调度接口
+    /// </summary>
+    public partial interface IQuartzUtil
     {
     }
 }

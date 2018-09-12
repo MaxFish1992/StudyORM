@@ -31,7 +31,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Util", "Util", "{33C19D10-E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.MathUtil", "Study.Util\Study.MathUtil.csproj", "{FE88AE88-5DD8-41E4-B3AA-F7EFF2258F86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.RedisCache", "Study.RedisCache\Study.RedisCache.csproj", "{A7EE6594-19CF-4E4C-8375-B1A7B451B6ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.RedisUtil", "Study.RedisCache\Study.RedisUtil.csproj", "{A7EE6594-19CF-4E4C-8375-B1A7B451B6ED}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.DBUtil", "Study.DBUtil\Study.DBUtil.csproj", "{A31B7E3D-A3B9-4BDE-ADE2-B140FE2A7A3D}"
 EndProject

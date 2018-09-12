@@ -5,3 +5,4 @@ F:\Code\git\StudyDemo\Study.ExcelUtil\obj\Debug\Study.ExcelUtil.csproj.CoreCompi
 F:\Code\git\StudyDemo\Study.ExcelUtil\obj\Debug\Study.ExcelUtil.csproj.CopyComplete
 F:\Code\git\StudyDemo\Study.ExcelUtil\obj\Debug\Study.ExcelUtil.dll
 F:\Code\git\StudyDemo\Study.ExcelUtil\obj\Debug\Study.ExcelUtil.pdb
+F:\Code\git\StudyDemo\Study.UI\bin\log4net.config

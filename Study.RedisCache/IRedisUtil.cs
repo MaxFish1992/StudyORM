@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Study.QuartzUtil
+namespace Study.RedisUtil
 {
-    public class Class1
+    /// <summary>
+    /// Redis缓存接口
+    /// </summary>
+    public partial interface IRedisUtil
     {
     }
 }

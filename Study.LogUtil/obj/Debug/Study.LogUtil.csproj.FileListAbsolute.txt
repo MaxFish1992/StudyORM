@@ -5,4 +5,3 @@ F:\Code\git\StudyDemo\Study.LogUtil\obj\Debug\Study.LogUtil.csproj.CopyComplete
 F:\Code\git\StudyDemo\Study.LogUtil\obj\Debug\Study.LogUtil.dll
 F:\Code\git\StudyDemo\Study.LogUtil\obj\Debug\Study.LogUtil.pdb
 F:\Code\git\StudyDemo\Study.UI\bin\log4net.config
-F:\Code\git\StudyDemo\Study.LogUtil\obj\Debug\Study.LogUtil.csprojAssemblyReference.cache

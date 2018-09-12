@@ -5,3 +5,4 @@ F:\Code\git\StudyDemo\Study.BLLContainer\obj\Debug\Study.BLLContainer.dll
 F:\Code\git\StudyDemo\Study.BLLContainer\obj\Debug\Study.BLLContainer.pdb
 F:\Code\git\StudyDemo\Study.BLLContainer\obj\Debug\Study.BLLContainer.csproj.CopyComplete
 F:\Code\git\StudyDemo\Study.BLLContainer\obj\Debug\Study.BLLContainer.csprojAssemblyReference.cache
+F:\Code\git\StudyDemo\Study.UI\bin\log4net.config
