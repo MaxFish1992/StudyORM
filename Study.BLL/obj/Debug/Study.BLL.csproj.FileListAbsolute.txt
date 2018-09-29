@@ -6,3 +6,11 @@ F:\Code\git\StudyDemo\Study.BLL\obj\Debug\Study.BLL.pdb
 F:\Code\git\StudyDemo\Study.BLL\obj\Debug\Study.BLL.csprojAssemblyReference.cache
 F:\Code\git\StudyDemo\Study.UI\bin\log4net.config
 F:\Code\git\StudyDemo\Study.BLL\obj\Debug\Study.BLL.csproj.CopyComplete
+D:\软件开发\gitcode\StudyORM\Study.UI\bin\log4net.config
+D:\软件开发\gitcode\StudyORM\Study.UI\bin\Study.BLL.dll
+D:\软件开发\gitcode\StudyORM\Study.UI\bin\Study.BLL.pdb
+D:\软件开发\gitcode\StudyORM\Study.BLL\obj\Debug\Study.BLL.csprojAssemblyReference.cache
+D:\软件开发\gitcode\StudyORM\Study.BLL\obj\Debug\Study.BLL.csproj.CoreCompileInputs.cache
+D:\软件开发\gitcode\StudyORM\Study.BLL\obj\Debug\Study.BLL.csproj.CopyComplete
+D:\软件开发\gitcode\StudyORM\Study.BLL\obj\Debug\Study.BLL.dll
+D:\软件开发\gitcode\StudyORM\Study.BLL\obj\Debug\Study.BLL.pdb

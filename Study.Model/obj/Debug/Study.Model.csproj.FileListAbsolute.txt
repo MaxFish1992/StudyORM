@@ -3,3 +3,9 @@ F:\Code\git\StudyDemo\Study.UI\bin\Study.Model.pdb
 F:\Code\git\StudyDemo\Study.Model\obj\Debug\Study.Model.csproj.CoreCompileInputs.cache
 F:\Code\git\StudyDemo\Study.Model\obj\Debug\Study.Model.dll
 F:\Code\git\StudyDemo\Study.Model\obj\Debug\Study.Model.pdb
+D:\软件开发\gitcode\StudyORM\Study.UI\bin\Study.Model.dll
+D:\软件开发\gitcode\StudyORM\Study.UI\bin\Study.Model.pdb
+D:\软件开发\gitcode\StudyORM\Study.Model\obj\Debug\Study.Model.csprojAssemblyReference.cache
+D:\软件开发\gitcode\StudyORM\Study.Model\obj\Debug\Study.Model.csproj.CoreCompileInputs.cache
+D:\软件开发\gitcode\StudyORM\Study.Model\obj\Debug\Study.Model.dll
+D:\软件开发\gitcode\StudyORM\Study.Model\obj\Debug\Study.Model.pdb

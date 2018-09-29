@@ -3,3 +3,9 @@ F:\Code\git\StudyDemo\Study.QuartzUtil\bin\Debug\Study.QuartzUtil.pdb
 F:\Code\git\StudyDemo\Study.QuartzUtil\obj\Debug\Study.QuartzUtil.csproj.CoreCompileInputs.cache
 F:\Code\git\StudyDemo\Study.QuartzUtil\obj\Debug\Study.QuartzUtil.dll
 F:\Code\git\StudyDemo\Study.QuartzUtil\obj\Debug\Study.QuartzUtil.pdb
+D:\软件开发\gitcode\StudyORM\Reference\Study.QuartzUtil.dll
+D:\软件开发\gitcode\StudyORM\Reference\Study.QuartzUtil.pdb
+D:\软件开发\gitcode\StudyORM\Study.QuartzUtil\obj\Debug\Study.QuartzUtil.csprojAssemblyReference.cache
+D:\软件开发\gitcode\StudyORM\Study.QuartzUtil\obj\Debug\Study.QuartzUtil.csproj.CoreCompileInputs.cache
+D:\软件开发\gitcode\StudyORM\Study.QuartzUtil\obj\Debug\Study.QuartzUtil.dll
+D:\软件开发\gitcode\StudyORM\Study.QuartzUtil\obj\Debug\Study.QuartzUtil.pdb

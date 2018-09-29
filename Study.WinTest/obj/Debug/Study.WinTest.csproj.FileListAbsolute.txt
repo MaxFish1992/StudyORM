@@ -11,3 +11,16 @@ F:\Code\git\StudyDemo\Study.WinTest\obj\Debug\Study.WinTest.csproj.CopyComplete
 F:\Code\git\StudyDemo\Study.WinTest\obj\Debug\Study.WinTest.exe
 F:\Code\git\StudyDemo\Study.WinTest\obj\Debug\Study.WinTest.pdb
 F:\Code\git\StudyDemo\Study.WinTest\obj\Debug\Study.WinTest.Form1.resources
+D:\软件开发\gitcode\StudyORM\Study.WinTest\bin\Debug\Study.WinTest.exe.config
+D:\软件开发\gitcode\StudyORM\Study.WinTest\bin\Debug\Study.WinTest.exe
+D:\软件开发\gitcode\StudyORM\Study.WinTest\bin\Debug\Study.WinTest.pdb
+D:\软件开发\gitcode\StudyORM\Study.WinTest\bin\Debug\log4net.dll
+D:\软件开发\gitcode\StudyORM\Study.WinTest\bin\Debug\log4net.xml
+D:\软件开发\gitcode\StudyORM\Study.WinTest\obj\Debug\Study.WinTest.csprojAssemblyReference.cache
+D:\软件开发\gitcode\StudyORM\Study.WinTest\obj\Debug\Study.WinTest.Form1.resources
+D:\软件开发\gitcode\StudyORM\Study.WinTest\obj\Debug\Study.WinTest.Properties.Resources.resources
+D:\软件开发\gitcode\StudyORM\Study.WinTest\obj\Debug\Study.WinTest.csproj.GenerateResource.cache
+D:\软件开发\gitcode\StudyORM\Study.WinTest\obj\Debug\Study.WinTest.csproj.CoreCompileInputs.cache
+D:\软件开发\gitcode\StudyORM\Study.WinTest\obj\Debug\Study.WinTest.csproj.CopyComplete
+D:\软件开发\gitcode\StudyORM\Study.WinTest\obj\Debug\Study.WinTest.exe
+D:\软件开发\gitcode\StudyORM\Study.WinTest\obj\Debug\Study.WinTest.pdb

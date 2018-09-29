@@ -5,3 +5,11 @@ F:\Code\git\StudyDemo\Study.LogUtil\obj\Debug\Study.LogUtil.csproj.CopyComplete
 F:\Code\git\StudyDemo\Study.LogUtil\obj\Debug\Study.LogUtil.dll
 F:\Code\git\StudyDemo\Study.LogUtil\obj\Debug\Study.LogUtil.pdb
 F:\Code\git\StudyDemo\Study.UI\bin\log4net.config
+D:\软件开发\gitcode\StudyORM\Reference\log4net.config
+D:\软件开发\gitcode\StudyORM\Reference\Study.LogUtil.dll
+D:\软件开发\gitcode\StudyORM\Reference\Study.LogUtil.pdb
+D:\软件开发\gitcode\StudyORM\Study.LogUtil\obj\Debug\Study.LogUtil.csprojAssemblyReference.cache
+D:\软件开发\gitcode\StudyORM\Study.LogUtil\obj\Debug\Study.LogUtil.csproj.CoreCompileInputs.cache
+D:\软件开发\gitcode\StudyORM\Study.LogUtil\obj\Debug\Study.LogUtil.csproj.CopyComplete
+D:\软件开发\gitcode\StudyORM\Study.LogUtil\obj\Debug\Study.LogUtil.dll
+D:\软件开发\gitcode\StudyORM\Study.LogUtil\obj\Debug\Study.LogUtil.pdb

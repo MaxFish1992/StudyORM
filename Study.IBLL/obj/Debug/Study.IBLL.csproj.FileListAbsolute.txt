@@ -5,3 +5,10 @@ F:\Code\git\StudyDemo\Study.IBLL\obj\Debug\Study.IBLL.dll
 F:\Code\git\StudyDemo\Study.IBLL\obj\Debug\Study.IBLL.pdb
 F:\Code\git\StudyDemo\Study.IBLL\obj\Debug\Study.IBLL.csprojAssemblyReference.cache
 F:\Code\git\StudyDemo\Study.IBLL\obj\Debug\Study.IBLL.csproj.CopyComplete
+D:\软件开发\gitcode\StudyORM\Study.UI\bin\Study.IBLL.dll
+D:\软件开发\gitcode\StudyORM\Study.UI\bin\Study.IBLL.pdb
+D:\软件开发\gitcode\StudyORM\Study.IBLL\obj\Debug\Study.IBLL.csprojAssemblyReference.cache
+D:\软件开发\gitcode\StudyORM\Study.IBLL\obj\Debug\Study.IBLL.csproj.CoreCompileInputs.cache
+D:\软件开发\gitcode\StudyORM\Study.IBLL\obj\Debug\Study.IBLL.csproj.CopyComplete
+D:\软件开发\gitcode\StudyORM\Study.IBLL\obj\Debug\Study.IBLL.dll
+D:\软件开发\gitcode\StudyORM\Study.IBLL\obj\Debug\Study.IBLL.pdb

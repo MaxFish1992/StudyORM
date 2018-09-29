@@ -6,3 +6,11 @@ F:\Code\git\StudyDemo\Study.DAL\obj\Debug\Study.DAL.pdb
 F:\Code\git\StudyDemo\Study.DAL\obj\Debug\Study.DAL.csprojAssemblyReference.cache
 F:\Code\git\StudyDemo\Study.DAL\obj\Debug\Study.DAL.csproj.CopyComplete
 F:\Code\git\StudyDemo\Study.UI\bin\log4net.config
+D:\软件开发\gitcode\StudyORM\Study.UI\bin\log4net.config
+D:\软件开发\gitcode\StudyORM\Study.UI\bin\Study.DAL.dll
+D:\软件开发\gitcode\StudyORM\Study.UI\bin\Study.DAL.pdb
+D:\软件开发\gitcode\StudyORM\Study.DAL\obj\Debug\Study.DAL.csprojAssemblyReference.cache
+D:\软件开发\gitcode\StudyORM\Study.DAL\obj\Debug\Study.DAL.csproj.CoreCompileInputs.cache
+D:\软件开发\gitcode\StudyORM\Study.DAL\obj\Debug\Study.DAL.csproj.CopyComplete
+D:\软件开发\gitcode\StudyORM\Study.DAL\obj\Debug\Study.DAL.dll
+D:\软件开发\gitcode\StudyORM\Study.DAL\obj\Debug\Study.DAL.pdb

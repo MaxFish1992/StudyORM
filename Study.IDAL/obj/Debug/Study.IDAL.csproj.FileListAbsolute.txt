@@ -5,3 +5,10 @@ F:\Code\git\StudyDemo\Study.IDAL\obj\Debug\Study.IDAL.csproj.CoreCompileInputs.c
 F:\Code\git\StudyDemo\Study.IDAL\obj\Debug\Study.IDAL.dll
 F:\Code\git\StudyDemo\Study.IDAL\obj\Debug\Study.IDAL.pdb
 F:\Code\git\StudyDemo\Study.IDAL\obj\Debug\Study.IDAL.csproj.CopyComplete
+D:\软件开发\gitcode\StudyORM\Study.UI\bin\Study.IDAL.dll
+D:\软件开发\gitcode\StudyORM\Study.UI\bin\Study.IDAL.pdb
+D:\软件开发\gitcode\StudyORM\Study.IDAL\obj\Debug\Study.IDAL.csprojAssemblyReference.cache
+D:\软件开发\gitcode\StudyORM\Study.IDAL\obj\Debug\Study.IDAL.csproj.CoreCompileInputs.cache
+D:\软件开发\gitcode\StudyORM\Study.IDAL\obj\Debug\Study.IDAL.csproj.CopyComplete
+D:\软件开发\gitcode\StudyORM\Study.IDAL\obj\Debug\Study.IDAL.dll
+D:\软件开发\gitcode\StudyORM\Study.IDAL\obj\Debug\Study.IDAL.pdb

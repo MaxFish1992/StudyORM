@@ -11,3 +11,16 @@ F:\Code\git\StudyDemo\Study.Test\obj\Debug\Study.Test.csprojAssemblyReference.ca
 F:\Code\git\StudyDemo\Study.Test\bin\Debug\Study.LogUtil.dll
 F:\Code\git\StudyDemo\Study.Test\bin\Debug\Study.LogUtil.pdb
 F:\Code\git\StudyDemo\Study.Test\bin\Debug\log4net.config
+D:\软件开发\gitcode\StudyORM\Study.Test\bin\Debug\log4net.config
+D:\软件开发\gitcode\StudyORM\Study.Test\bin\Debug\Study.Test.exe.config
+D:\软件开发\gitcode\StudyORM\Study.Test\bin\Debug\Study.Test.exe
+D:\软件开发\gitcode\StudyORM\Study.Test\bin\Debug\Study.Test.pdb
+D:\软件开发\gitcode\StudyORM\Study.Test\bin\Debug\log4net.dll
+D:\软件开发\gitcode\StudyORM\Study.Test\bin\Debug\Study.LogUtil.dll
+D:\软件开发\gitcode\StudyORM\Study.Test\bin\Debug\Study.LogUtil.pdb
+D:\软件开发\gitcode\StudyORM\Study.Test\bin\Debug\log4net.xml
+D:\软件开发\gitcode\StudyORM\Study.Test\obj\Debug\Study.Test.csprojAssemblyReference.cache
+D:\软件开发\gitcode\StudyORM\Study.Test\obj\Debug\Study.Test.csproj.CoreCompileInputs.cache
+D:\软件开发\gitcode\StudyORM\Study.Test\obj\Debug\Study.Test.csproj.CopyComplete
+D:\软件开发\gitcode\StudyORM\Study.Test\obj\Debug\Study.Test.exe
+D:\软件开发\gitcode\StudyORM\Study.Test\obj\Debug\Study.Test.pdb

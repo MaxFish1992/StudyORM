@@ -4,3 +4,10 @@ F:\Code\git\StudyDemo\Study.UI\bin\Study.DBUtil.pdb
 F:\Code\git\StudyDemo\Study.DBUtil\obj\Debug\Study.DBUtil.csproj.CopyComplete
 F:\Code\git\StudyDemo\Study.DBUtil\obj\Debug\Study.DBUtil.dll
 F:\Code\git\StudyDemo\Study.DBUtil\obj\Debug\Study.DBUtil.pdb
+D:\软件开发\gitcode\StudyORM\Reference\Study.DBUtil.dll
+D:\软件开发\gitcode\StudyORM\Reference\Study.DBUtil.pdb
+D:\软件开发\gitcode\StudyORM\Study.DBUtil\obj\Debug\Study.DBUtil.csprojAssemblyReference.cache
+D:\软件开发\gitcode\StudyORM\Study.DBUtil\obj\Debug\Study.DBUtil.csproj.CoreCompileInputs.cache
+D:\软件开发\gitcode\StudyORM\Study.DBUtil\obj\Debug\Study.DBUtil.csproj.CopyComplete
+D:\软件开发\gitcode\StudyORM\Study.DBUtil\obj\Debug\Study.DBUtil.dll
+D:\软件开发\gitcode\StudyORM\Study.DBUtil\obj\Debug\Study.DBUtil.pdb

@@ -5,3 +5,11 @@ F:\Code\git\StudyDemo\Study.UI\bin\Study.RedisUtil.dll
 F:\Code\git\StudyDemo\Study.UI\bin\Study.RedisUtil.pdb
 F:\Code\git\StudyDemo\Study.RedisCache\obj\Debug\Study.RedisUtil.dll
 F:\Code\git\StudyDemo\Study.RedisCache\obj\Debug\Study.RedisUtil.pdb
+D:\软件开发\gitcode\StudyORM\Reference\Study.RedisUtil.dll.config
+D:\软件开发\gitcode\StudyORM\Reference\Study.RedisUtil.dll
+D:\软件开发\gitcode\StudyORM\Reference\Study.RedisUtil.pdb
+D:\软件开发\gitcode\StudyORM\Study.RedisCache\obj\Debug\Study.RedisUtil.csprojAssemblyReference.cache
+D:\软件开发\gitcode\StudyORM\Study.RedisCache\obj\Debug\Study.RedisUtil.csproj.CoreCompileInputs.cache
+D:\软件开发\gitcode\StudyORM\Study.RedisCache\obj\Debug\Study.RedisUtil.csproj.CopyComplete
+D:\软件开发\gitcode\StudyORM\Study.RedisCache\obj\Debug\Study.RedisUtil.dll
+D:\软件开发\gitcode\StudyORM\Study.RedisCache\obj\Debug\Study.RedisUtil.pdb

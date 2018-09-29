@@ -6,3 +6,11 @@ F:\Code\git\StudyDemo\Study.ExcelUtil\obj\Debug\Study.ExcelUtil.csproj.CopyCompl
 F:\Code\git\StudyDemo\Study.ExcelUtil\obj\Debug\Study.ExcelUtil.dll
 F:\Code\git\StudyDemo\Study.ExcelUtil\obj\Debug\Study.ExcelUtil.pdb
 F:\Code\git\StudyDemo\Study.UI\bin\log4net.config
+D:\软件开发\gitcode\StudyORM\Reference\log4net.config
+D:\软件开发\gitcode\StudyORM\Reference\Study.ExcelUtil.dll
+D:\软件开发\gitcode\StudyORM\Reference\Study.ExcelUtil.pdb
+D:\软件开发\gitcode\StudyORM\Study.ExcelUtil\obj\Debug\Study.ExcelUtil.csprojAssemblyReference.cache
+D:\软件开发\gitcode\StudyORM\Study.ExcelUtil\obj\Debug\Study.ExcelUtil.csproj.CoreCompileInputs.cache
+D:\软件开发\gitcode\StudyORM\Study.ExcelUtil\obj\Debug\Study.ExcelUtil.csproj.CopyComplete
+D:\软件开发\gitcode\StudyORM\Study.ExcelUtil\obj\Debug\Study.ExcelUtil.dll
+D:\软件开发\gitcode\StudyORM\Study.ExcelUtil\obj\Debug\Study.ExcelUtil.pdb
