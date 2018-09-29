@@ -84,5 +84,25 @@ namespace Study.IOUtil
                 Log4Helper.Error(typeof(FileHelper), ex.Message, ex);
             }
         }
+        /// <summary>
+        /// 删除文件
+        /// </summary>
+        /// <param name="filePath">文件路径</param>
+        public static bool DeleteFile(string filePath)
+        {
+            try
+            {
+                if(File.Exists(filePath))
+                {
+                    File.Delete(filePath);
+                }
+                return true;
+            }
+            catch (IOException ex)
+            {
+                Log4Helper.Error(typeof(FileHelper), ex.Message, ex);
+                return false;
+            }
+        }
     }
 }

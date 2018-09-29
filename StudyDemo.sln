@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.WinTest", "Study.WinT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.AsyncUtil", "Study.AsyncUtil\Study.AsyncUtil.csproj", "{6F4274A8-7F58-45C3-919E-7292F7F1530C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.IOUtil", "Study.IOUtil\Study.IOUtil.csproj", "{DAE88636-6A71-4EAE-9B86-7E6BD9D79363}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{6F4274A8-7F58-45C3-919E-7292F7F1530C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F4274A8-7F58-45C3-919E-7292F7F1530C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F4274A8-7F58-45C3-919E-7292F7F1530C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE88636-6A71-4EAE-9B86-7E6BD9D79363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE88636-6A71-4EAE-9B86-7E6BD9D79363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE88636-6A71-4EAE-9B86-7E6BD9D79363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE88636-6A71-4EAE-9B86-7E6BD9D79363}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -145,6 +151,7 @@ Global
 		{AA19C934-D51A-434F-B46D-9EA5CB372401} = {33C19D10-E114-43BB-BC7F-A2BB67A79B5F}
 		{101BBD36-BB1B-4CA1-B52F-D6D78FBF637C} = {94E17E71-B19F-4BDE-8AA0-8A902D4759F9}
 		{6F4274A8-7F58-45C3-919E-7292F7F1530C} = {33C19D10-E114-43BB-BC7F-A2BB67A79B5F}
+		{DAE88636-6A71-4EAE-9B86-7E6BD9D79363} = {33C19D10-E114-43BB-BC7F-A2BB67A79B5F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0434757B-33E2-45B0-B01D-5A74ABDD4D39}
